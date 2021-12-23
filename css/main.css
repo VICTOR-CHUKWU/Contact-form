@@ -331,10 +331,12 @@ li {
 .clossure-inner {
   margin: 4rem 1rem 0.5rem 1rem;
 }
+
 form {
   width: 100%;
   margin-bottom: 2rem;
 }
+
 input {
   border: none;
   outline: none;
@@ -344,9 +346,11 @@ input {
   background: none;
   margin-bottom: 0.5rem;
 }
+
 textarea {
   border-color: #e74c3c;
 }
+
 textarea {
   border: 2px solid #dbd8d7;
   background: none;
@@ -360,6 +364,7 @@ textarea {
   font-size: 18px;
   font-weight: 500;
 }
+
 .flex-form {
   display: flex;
   flex-direction: column;
@@ -372,10 +377,6 @@ textarea {
   font-size: 28px;
   line-height: 44px;
   font-weight: 700;
-  color: #172B4D;
+  color: #172b4d;
   text-align: center;
-}
-
-.btn{
-  margin: 0 auto;
 }
