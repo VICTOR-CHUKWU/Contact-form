@@ -294,6 +294,8 @@ li {
   color: #fff;
   align-self: start;
   transition: 350ms;
+  outline: none;
+  border: none;
 }
 
 .link:hover {
@@ -324,4 +326,56 @@ li {
 
 .skills {
   list-style: inside url("../media/svg/circle.svg");
+}
+
+.clossure-inner {
+  margin: 4rem 1rem 0.5rem 1rem;
+}
+form {
+  width: 100%;
+  margin-bottom: 2rem;
+}
+input {
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: 1rem;
+  border-bottom: 1px solid #dbd8d7;
+  background: none;
+  margin-bottom: 0.5rem;
+}
+textarea {
+  border-color: #e74c3c;
+}
+textarea {
+  border: 2px solid #dbd8d7;
+  background: none;
+  width: 95%;
+  height: 114px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  font-size: 18px;
+  font-weight: 500;
+}
+.flex-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.para {
+  font-family: "Inter", sans-serif;
+  font-size: 28px;
+  line-height: 44px;
+  font-weight: 700;
+  color: #172B4D;
+  text-align: center;
+}
+
+.btn{
+  margin: 0 auto;
 }
