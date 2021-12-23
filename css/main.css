@@ -347,7 +347,7 @@ input {
   margin-bottom: 0.5rem;
 }
 
-textarea {
+.textarea {
   border-color: #e74c3c;
 }
 
@@ -358,6 +358,7 @@ textarea {
   height: 114px;
   padding: 1rem;
   margin-bottom: 1.5rem;
+  border-color: #e74c3c;
   margin-left: auto;
   margin-right: auto;
   margin-top: 1rem;
