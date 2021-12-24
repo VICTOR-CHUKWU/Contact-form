@@ -347,9 +347,9 @@ input {
   margin-bottom: 0.5rem;
 }
 
-.textarea {
+/* .textarea {
   border-color: #e74c3c;
-}
+} */
 
 textarea {
   border: 2px solid #dbd8d7;
@@ -380,4 +380,8 @@ textarea {
   font-weight: 700;
   color: #172b4d;
   text-align: center;
+}
+
+.btn {
+  margin: 0 auto;
 }
